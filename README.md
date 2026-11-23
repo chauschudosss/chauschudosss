@@ -39,7 +39,7 @@ struct Developer {
 ### Contacts
 
 <p align="left">
-  <a href="mailto:Chaus-mm@mail.ru"><img src="https://img.shields.io/badge/-Chaus--mm@mail.ru-red?style=flat&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <a href="mailto:сhauschudos@gmail.com"><img src="https://img.shields.io/badge/-сhauschudos@gmail.com-red?style=flat&logo=maildotru&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
