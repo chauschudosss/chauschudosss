@@ -11,7 +11,7 @@ Commercial experience: backend development in C++ and Python, including a C++ se
 * 💼  Backend developer at Thrones Systems (C++, Python)
 * 🧠  I'm currently deepening my skills in multithreading, networking and high-load systems in C++
 * 📊  I love math and numbers: before development I automated analytics and reporting (weekly reports: ~20 min → 30 sec)
-* ✉️  * ✉️  You can contact me at [chauschudos@gmail.com](mailto:chauschudos@gmail.com)
+* ✉️  You can contact me at [chauschudos@gmail.com](mailto:chauschudos@gmail.com)
 
 ---
 
